@@ -1,0 +1,84 @@
+C:\Users\DELL\source\repos\ProjectPFE\ProjectPFE\bin\Debug\netcoreapp2.1\ProjectPFE.deps.json
+C:\Users\DELL\source\repos\ProjectPFE\ProjectPFE\bin\Debug\netcoreapp2.1\ProjectPFE.runtimeconfig.json
+C:\Users\DELL\source\repos\ProjectPFE\ProjectPFE\bin\Debug\netcoreapp2.1\ProjectPFE.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\ProjectPFE\ProjectPFE\bin\Debug\netcoreapp2.1\ProjectPFE.dll
+C:\Users\DELL\source\repos\ProjectPFE\ProjectPFE\bin\Debug\netcoreapp2.1\ProjectPFE.pdb
+C:\Users\DELL\source\repos\ProjectPFE\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ProjectPFE\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.RazorAssemblyInfo.cache
+C:\Users\DELL\source\repos\ProjectPFE\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.RazorAssemblyInfo.cs
+C:\Users\DELL\source\repos\ProjectPFE\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ProjectPFE\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ProjectPFE\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.RazorTargetAssemblyInfo.cache
+C:\Users\DELL\source\repos\ProjectPFE\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.dll
+C:\Users\DELL\source\repos\ProjectPFE\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.pdb
+C:\Users\DELL\source\repos\ProjectPFE\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.csprojAssemblyReference.cache
+C:\PFE\ProjectPFE\ProjectPFE\bin\Debug\netcoreapp2.1\ProjectPFE.deps.json
+C:\PFE\ProjectPFE\ProjectPFE\bin\Debug\netcoreapp2.1\ProjectPFE.runtimeconfig.json
+C:\PFE\ProjectPFE\ProjectPFE\bin\Debug\netcoreapp2.1\ProjectPFE.runtimeconfig.dev.json
+C:\PFE\ProjectPFE\ProjectPFE\bin\Debug\netcoreapp2.1\ProjectPFE.dll
+C:\PFE\ProjectPFE\ProjectPFE\bin\Debug\netcoreapp2.1\ProjectPFE.pdb
+C:\PFE\ProjectPFE\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.csprojAssemblyReference.cache
+C:\PFE\ProjectPFE\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.csproj.CoreCompileInputs.cache
+C:\PFE\ProjectPFE\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.RazorAssemblyInfo.cache
+C:\PFE\ProjectPFE\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.RazorAssemblyInfo.cs
+C:\PFE\ProjectPFE\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.AssemblyInfoInputs.cache
+C:\PFE\ProjectPFE\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.AssemblyInfo.cs
+C:\PFE\ProjectPFE\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.RazorTargetAssemblyInfo.cache
+C:\PFE\ProjectPFE\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.dll
+C:\PFE\ProjectPFE\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.pdb
+C:\Mahdi\the way\pfe\marwa fawel\pfe\gestionAmendeBack\ProjectPFE\bin\Debug\netcoreapp2.1\ProjectPFE.deps.json
+C:\Mahdi\the way\pfe\marwa fawel\pfe\gestionAmendeBack\ProjectPFE\bin\Debug\netcoreapp2.1\ProjectPFE.runtimeconfig.json
+C:\Mahdi\the way\pfe\marwa fawel\pfe\gestionAmendeBack\ProjectPFE\bin\Debug\netcoreapp2.1\ProjectPFE.runtimeconfig.dev.json
+C:\Mahdi\the way\pfe\marwa fawel\pfe\gestionAmendeBack\ProjectPFE\bin\Debug\netcoreapp2.1\ProjectPFE.dll
+C:\Mahdi\the way\pfe\marwa fawel\pfe\gestionAmendeBack\ProjectPFE\bin\Debug\netcoreapp2.1\ProjectPFE.pdb
+C:\Mahdi\the way\pfe\marwa fawel\pfe\gestionAmendeBack\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.csprojAssemblyReference.cache
+C:\Mahdi\the way\pfe\marwa fawel\pfe\gestionAmendeBack\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.csproj.CoreCompileInputs.cache
+C:\Mahdi\the way\pfe\marwa fawel\pfe\gestionAmendeBack\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.RazorAssemblyInfo.cache
+C:\Mahdi\the way\pfe\marwa fawel\pfe\gestionAmendeBack\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.RazorAssemblyInfo.cs
+C:\Mahdi\the way\pfe\marwa fawel\pfe\gestionAmendeBack\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.AssemblyInfoInputs.cache
+C:\Mahdi\the way\pfe\marwa fawel\pfe\gestionAmendeBack\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.AssemblyInfo.cs
+C:\Mahdi\the way\pfe\marwa fawel\pfe\gestionAmendeBack\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.RazorTargetAssemblyInfo.cache
+C:\Mahdi\the way\pfe\marwa fawel\pfe\gestionAmendeBack\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.dll
+C:\Mahdi\the way\pfe\marwa fawel\pfe\gestionAmendeBack\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.pdb
+C:\Users\DELL\Desktop\gestionAmendeBack\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\gestionAmendeBack\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\gestionAmendeBack\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.RazorAssemblyInfo.cache
+C:\Users\DELL\Desktop\gestionAmendeBack\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.RazorAssemblyInfo.cs
+C:\Users\DELL\Desktop\gestionAmendeBack\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\gestionAmendeBack\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.AssemblyInfo.cs
+C:\Users\DELL\Desktop\gestionAmendeBack\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.dll
+C:\Users\DELL\Desktop\gestionAmendeBack\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.pdb
+C:\Users\DELL\Desktop\gestionAmendeBack\ProjectPFE\bin\Debug\netcoreapp2.1\ProjectPFE.deps.json
+C:\Users\DELL\Desktop\gestionAmendeBack\ProjectPFE\bin\Debug\netcoreapp2.1\ProjectPFE.runtimeconfig.json
+C:\Users\DELL\Desktop\gestionAmendeBack\ProjectPFE\bin\Debug\netcoreapp2.1\ProjectPFE.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\gestionAmendeBack\ProjectPFE\bin\Debug\netcoreapp2.1\ProjectPFE.dll
+C:\Users\DELL\Desktop\gestionAmendeBack\ProjectPFE\bin\Debug\netcoreapp2.1\ProjectPFE.pdb
+C:\Users\DELL\Desktop\gestionAmendeBack\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.RazorTargetAssemblyInfo.cache
+C:\PFE\pfe (1)\pfe\gestionAmendeBack\ProjectPFE\bin\Debug\netcoreapp2.1\ProjectPFE.deps.json
+C:\PFE\pfe (1)\pfe\gestionAmendeBack\ProjectPFE\bin\Debug\netcoreapp2.1\ProjectPFE.runtimeconfig.json
+C:\PFE\pfe (1)\pfe\gestionAmendeBack\ProjectPFE\bin\Debug\netcoreapp2.1\ProjectPFE.runtimeconfig.dev.json
+C:\PFE\pfe (1)\pfe\gestionAmendeBack\ProjectPFE\bin\Debug\netcoreapp2.1\ProjectPFE.dll
+C:\PFE\pfe (1)\pfe\gestionAmendeBack\ProjectPFE\bin\Debug\netcoreapp2.1\ProjectPFE.pdb
+C:\PFE\pfe (1)\pfe\gestionAmendeBack\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.csprojAssemblyReference.cache
+C:\PFE\pfe (1)\pfe\gestionAmendeBack\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.csproj.CoreCompileInputs.cache
+C:\PFE\pfe (1)\pfe\gestionAmendeBack\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.RazorAssemblyInfo.cache
+C:\PFE\pfe (1)\pfe\gestionAmendeBack\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.RazorAssemblyInfo.cs
+C:\PFE\pfe (1)\pfe\gestionAmendeBack\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.AssemblyInfoInputs.cache
+C:\PFE\pfe (1)\pfe\gestionAmendeBack\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.AssemblyInfo.cs
+C:\PFE\pfe (1)\pfe\gestionAmendeBack\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.RazorTargetAssemblyInfo.cache
+C:\PFE\pfe (1)\pfe\gestionAmendeBack\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.dll
+C:\PFE\pfe (1)\pfe\gestionAmendeBack\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.pdb
+C:\PFE\pfe\pfe\gestionAmendeBack\ProjectPFE\bin\Debug\netcoreapp2.1\ProjectPFE.deps.json
+C:\PFE\pfe\pfe\gestionAmendeBack\ProjectPFE\bin\Debug\netcoreapp2.1\ProjectPFE.runtimeconfig.json
+C:\PFE\pfe\pfe\gestionAmendeBack\ProjectPFE\bin\Debug\netcoreapp2.1\ProjectPFE.runtimeconfig.dev.json
+C:\PFE\pfe\pfe\gestionAmendeBack\ProjectPFE\bin\Debug\netcoreapp2.1\ProjectPFE.dll
+C:\PFE\pfe\pfe\gestionAmendeBack\ProjectPFE\bin\Debug\netcoreapp2.1\ProjectPFE.pdb
+C:\PFE\pfe\pfe\gestionAmendeBack\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.csprojAssemblyReference.cache
+C:\PFE\pfe\pfe\gestionAmendeBack\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.csproj.CoreCompileInputs.cache
+C:\PFE\pfe\pfe\gestionAmendeBack\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.RazorAssemblyInfo.cache
+C:\PFE\pfe\pfe\gestionAmendeBack\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.RazorAssemblyInfo.cs
+C:\PFE\pfe\pfe\gestionAmendeBack\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.AssemblyInfoInputs.cache
+C:\PFE\pfe\pfe\gestionAmendeBack\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.AssemblyInfo.cs
+C:\PFE\pfe\pfe\gestionAmendeBack\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.RazorTargetAssemblyInfo.cache
+C:\PFE\pfe\pfe\gestionAmendeBack\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.dll
+C:\PFE\pfe\pfe\gestionAmendeBack\ProjectPFE\obj\Debug\netcoreapp2.1\ProjectPFE.pdb

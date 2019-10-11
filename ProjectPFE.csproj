@@ -1,0 +1,49 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20190723083646_t1.cs" />
+    <Compile Remove="Migrations\20190723083646_t1.Designer.cs" />
+    <Compile Remove="Migrations\20190724085506_t3.cs" />
+    <Compile Remove="Migrations\20190724085506_t3.Designer.cs" />
+    <Compile Remove="Migrations\20190724212003_a1.cs" />
+    <Compile Remove="Migrations\20190724212003_a1.Designer.cs" />
+    <Compile Remove="Migrations\20190725120944_g1.cs" />
+    <Compile Remove="Migrations\20190725120944_g1.Designer.cs" />
+    <Compile Remove="Migrations\20190725185758_t9.cs" />
+    <Compile Remove="Migrations\20190725185758_t9.Designer.cs" />
+    <Compile Remove="Migrations\20190725202320_t11.cs" />
+    <Compile Remove="Migrations\20190725202320_t11.Designer.cs" />
+    <Compile Remove="Migrations\20190725214008_t12.cs" />
+    <Compile Remove="Migrations\20190725214008_t12.Designer.cs" />
+    <Compile Remove="Migrations\20190728212835_t55.cs" />
+    <Compile Remove="Migrations\20190728212835_t55.Designer.cs" />
+    <Compile Remove="Migrations\20190729215103_t66.cs" />
+    <Compile Remove="Migrations\20190729215103_t66.Designer.cs" />
+    <Compile Remove="Migrations\20190730111507_p1.cs" />
+    <Compile Remove="Migrations\20190730111507_p1.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Commons\" />
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNet.Identity.Owin" Version="2.2.2" />
+    <PackageReference Include="Microsoft.AspNet.WebApi.Cors" Version="5.2.3" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.1.8" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.1.8">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="2.1.0" />
+  </ItemGroup>
+
+</Project>
